@@ -3,7 +3,7 @@ This project demonstrates the implementation and evaluation of a Convolutional N
 
 <h2>Project Structure</h2>
 
-Here's a brief overview of the main files and folders in this repository:
+Here's a brief overview of the main files in this repository:
 
 <li>README.md: This file, which documents the project and its usage.</li>
 <li>mnist_cnn.py: The Python script that includes the CNN model implementation, training, and evaluation on the MNIST dataset.</li>
